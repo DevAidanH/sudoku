@@ -55,6 +55,4 @@ def sudoku(puzzle):
     
     return False
 
-sudoku(puzzle)
-
-print(puzzle)
+sudoku(puzzle) 
