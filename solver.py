@@ -1,3 +1,13 @@
+#Basic backtracking sudoku solver 
+#Aidan Humpidge
+#07/12/2024
+
+#To Do
+# - Link with validator file
+# - External test case files
+# - Turn into class...?
+# - Gui...?
+
 puzzle = [[5,3,0,0,7,0,0,0,0],
           [6,0,0,1,9,5,0,0,0],
           [0,9,8,0,0,0,0,6,0],
